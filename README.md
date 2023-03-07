@@ -2,8 +2,8 @@
 
 ### I'm a solution architect and software engineer.
 
-- 🔭 I’m currently working on Architectural Documentation on Gitlab
-- 🌱 I’m currently learning TDD and NextJS
+- 🔭 I’m currently working on Vue/Django
+- 🌱 I’m currently learning Vue and Django
 - ⚡ Fun fact: I like to collect Heavy/Thrash/Death/Black Metal CDs, Countries billets/coins and Mangas.
 
 ## 🚀 My Skills
