@@ -2,10 +2,10 @@
 
 ### I'm a solution architect and full stack software engineer.
 
-I'm currently with 6 years of experience.
+I'm currently with 5+ years of experience.
 
-- 🔭 I’m currently working on React/NodeJs.
-- 🌱 I’m currently learning Vue and Django
+- 🔭 I’m currently working on a Typescript Quiz Web App
+- 🌱 I’m currently mastering my full stack with personal projects.
 - ⚡ Fun fact: I like to collect Heavy/Thrash/Death/Black Metal CDs, Countries billets/coins and Mangas.
 
 ## 🚀 My Skills
