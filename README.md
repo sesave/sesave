@@ -1,8 +1,15 @@
-## Hello there! General Kenobi...
+# Hello there! General Kenobi...
 
 ### I'm a solution architect and full stack software engineer.
 
 I'm currently with 5+ years of experience.
+
+### Languages that I fluent speak:
+- Spanish 
+- Portuguese
+- English
+
+### What I'm doing
 
 - 🔭 I’m currently working on a Typescript Quiz Web App
 - 🌱 I’m currently mastering my full stack with personal projects.
