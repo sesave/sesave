@@ -1,19 +1,19 @@
 # Hello there! General Kenobi...
 
-### I'm a solution architect and full stack software engineer.
+### I'm a solution architect and full-stack software engineer.
 
 I'm currently with 5+ years of experience.
 
-### Languages that I fluent speak:
+### Languages that I speak:
 - Spanish 
 - Portuguese
 - English
 
 ### What I'm doing
 
-- 🔭 I’m currently working on a Typescript Quiz Web App
+- 🔭 I’m currently working on a Magic The Gathering Collection Organizator
 - 🌱 I’m currently mastering my full stack with personal projects.
-- ⚡ Fun fact: I like to collect Heavy/Thrash/Death/Black Metal CDs, Countries billets/coins and Mangas.
+- ⚡ Fun fact: I like to collect Heavy/Thrash/Death/Black Metal CDs, Countries billets/coins, and Mangas.
 
 ## 🚀 My Skills
 
@@ -28,7 +28,7 @@ I'm currently with 5+ years of experience.
   ![Python](https://img.shields.io/badge/Python-333?style=flat&logo=python&logoColor=ffdd54)
   
   
-**Languages, Frameworks and DBs**
+**Languages, Frameworks, and DBs**
 
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![Gatsby](https://img.shields.io/badge/Gatsby-333?style=flat&logo=gatsby)
